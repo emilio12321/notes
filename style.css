@@ -10,4 +10,7 @@ body
 	font-family: Courrier ;
 	background-color: green ;
 }
-
+header
+{
+	border: 2px solid black;
+}
